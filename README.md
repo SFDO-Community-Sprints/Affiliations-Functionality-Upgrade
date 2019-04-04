@@ -25,5 +25,5 @@ Only defined the high-level functionality so far
 
 * Define all features and functionality that the Affiliation offers to NPSP customers
 * Understand limitations of the "Contact to Multiple Account" functionality and find what needs to change here to accomodate the Affiliations Functionality
-* Understand if this can/will benefit the functionality. 
-* What (if any) help would you like from Salesforce.org in order to share this project with the Community?
+* Understand if this can/will benefit the community 
+* Business Analysis and Implementation resources
